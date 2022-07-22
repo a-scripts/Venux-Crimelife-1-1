@@ -10,7 +10,7 @@ namespace Venux
         public static void Print(string msg)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("https://discord.gg/kscripts -> ");
+            Console.Write("https://discord.gg/z5Kc4EEKNv -> ");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine(msg);
         }

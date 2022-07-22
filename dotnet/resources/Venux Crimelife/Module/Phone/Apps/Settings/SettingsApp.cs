@@ -21,7 +21,7 @@ namespace Venux
             new Wallpaper(9, "Vagos", "https://i.imgur.com/TYZgwX7.png"),
             new Wallpaper(10, "YakuZa", "https://i.imgur.com/5hoqvjH.png"),
             new Wallpaper(11, "Feuerlord", "https://i.ibb.co/g6Vfh3w/milakunis.gif"),
-            new Wallpaper(12, "", "https://i.ibb.co/SJmX6tR/tenor2.gif"),
+            new Wallpaper(12, "hehehea", "https://i.ibb.co/SJmX6tR/tenor2.gif"),
             new Wallpaper(13, "Bubblebutt", "https://i.ibb.co/8PrTgHf/bubblebutt.gif")
         };
 

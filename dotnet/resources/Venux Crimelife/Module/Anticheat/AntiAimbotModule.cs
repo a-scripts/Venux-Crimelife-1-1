@@ -5,13 +5,13 @@ namespace Venux
 {
     public class AntiAimbotModule : Module<AntiAimbotModule>
     {
-       /* [RemoteEvent("onCheckTick")]
-        public void checkTick(Client c)
+        [RemoteEvent("onCheckTick")]
+        public void checkTick(Player player)
         {
-            DbPlayer dbPlayer = c.GetPlayer();
+            DbPlayer dbPlayer = player.GetPlayer();
             if (dbPlayer == null || !dbPlayer.IsValid(true) || dbPlayer.Client == null)
                 return;
                 
-        } */
+        } 
     }
 }

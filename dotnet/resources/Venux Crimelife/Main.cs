@@ -32,7 +32,7 @@ namespace Venux
             Logger.Print("  =========================================================    ");
             Logger.Print("");
             Logger.Print("");
-            Logger.Print("  K S C R I P T S  C R I M E L I F E  1 . 1");
+            Logger.Print("  V E N U X      C R I M E L I F E  1 . 1");
             Logger.Print("");
             Logger.Print("  S T A R T E D  G A M E S E R V E R");
             Logger.Print("");
@@ -48,7 +48,7 @@ namespace Venux
         {
             InitGameMode();
             timeToRestart = 36000;
-            Integration.DiscordIntegration.SetUpBotInstance("OTIyMTY0MjkyODIyODkyNjA1.Yb9ebA.snP4TFQN1XBv4d7KKWfQERiGxcA", ""+NAPI.Pools.GetAllPlayers().Count+" Spieler auf dem Server", Discord.ActivityType.Playing, Discord.UserStatus.DoNotDisturb);
+            Integration.DiscordIntegration.SetUpBotInstance("MTAwMDAyNzEwMDE0MjY0NTI4OA.G2jjlt.hoSRxFOXBLa75TIsjhAJBhWQ-3ngfk_zUPxm6I", ""+NAPI.Pools.GetAllPlayers().Count+" Spieler auf dem Server", Discord.ActivityType.Playing, Discord.UserStatus.DoNotDisturb);
             SyncThread.Init();
             SyncThread.Instance.Start();
         }
