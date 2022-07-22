@@ -1,0 +1,8 @@
+﻿{
+  "discord": {
+    "token": "NzE4MTA3OTkxOTU3NzAwNjUy.XtkELw.hl2IAfX52VWpGEN4FF6YQKm3yZA",
+    "appId": "xxx",
+    "appSecret": "xxx",
+    "CommandPrefix": "pc."
+  }
+}

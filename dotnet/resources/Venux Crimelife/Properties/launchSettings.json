@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GVMP": {
+      "commandName": "Executable",
+      "executablePath": "E:\\server-files\\ragemp-server.exe",
+      "workingDirectory": "E:\\server-files",
+      "sqlDebugging": true,
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
